@@ -692,17 +692,17 @@ footer span {
 
 .pimg1 {
   background-image: url("../images/image1.jpg");
-  min-height: 60vh;
+  min-height: 30vh;
 }
 
 .pimg2 {
   background-image: url("../images/image2.jpg");
-  min-height: 40vh;
+  min-height: 30vh;
 }
 
 .pimg3 {
   background-image: url("../images/image3.jpg");
-  min-height: 40vh;
+  min-height: 30vh;
 }
 .fa-html5{
   color: rgb(221, 77, 37);
