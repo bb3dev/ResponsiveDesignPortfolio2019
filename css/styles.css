@@ -772,13 +772,13 @@ footer span {
 }
 @media screen and (max-width: 600px) {
 .pimg1{
-  min-height: 35vh;
+  min-height: 15vh;
 }
 .pimg2{
-  min-height: 20vh;
+  min-height: 10vh;
 }
 .pimg3 {
-  min-height: 20vh;
+  min-height: 10vh;
 }
   .fa-html5 {
   margin: .2rem;
