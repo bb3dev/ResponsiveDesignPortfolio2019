@@ -666,11 +666,10 @@ footer span {
    height: 100%;
    margin: auto;
    font-size:16px;
-   font-family:"Lato",
-   sans-serif;
+   font-family: "Hepta Slab",Arial,sans-serif;
    font-weight:400;
    line-height:1.2rem;
-   color:#666;
+   color:rgb(63, 63, 63);
    background-color: var(--primary-color);
    background-color: rgb(57, 55, 83);
 }
@@ -691,33 +690,18 @@ footer span {
 }
 
 .pimg1 {
-  background-image: url("../images/image1.jpg");
+  background-image: url("../images/mountains-still.png");
   min-height: 30vh;
 }
 
 .pimg2 {
-  background-image: url("../images/image2.jpg");
+  background-image: url("../images/mountains-still.png");
   min-height: 30vh;
 }
 
 .pimg3 {
-  background-image: url("../images/image3.jpg");
+  background-image: url("../images/mountains-still.png");
   min-height: 30vh;
-}
-.fa-html5{
-  color: rgb(221, 77, 37);
-  text-shadow: black 0 3px 4px;
-  margin: 1rem;
-}
-.fa-css3-alt{
-  color: rgb(0, 104, 187);
-  text-shadow: black 0 3px 4px;
-   margin: 1rem;
-}
-.fa-js{
-  color: rgb(241, 214, 59);
-  text-shadow: black 0 3px 4px;
-   margin: 1rem;
 }
 
 .section {
@@ -729,16 +713,18 @@ footer span {
 }
 .section h2{
   text-align: center;
+  margin: 1rem;
+  
 }
 .section ul{
-  width:50%;
+  width:70%;
   margin: auto;
-  font-size: .7rem;
+  font-size: .9rem;
 }
 .section-light {
   background-color: var(--main-bg-color);
   background-color: rgb(241, 241, 241);
-  color: #666;
+  color: black;
 }
 
 .ptext {
@@ -752,7 +738,7 @@ footer span {
 }
 
 .ptext .border {
-  color: white;
+  color: black;
   padding: 20px;
   text-shadow: black 0 3px 6px;
 }
@@ -780,25 +766,19 @@ footer span {
 .pimg3 {
   min-height: 10vh;
 }
-  .fa-html5 {
-  margin: .2rem;
-}
-.fa-css3-alt {
-    margin: .2rem;
-}
-.fa-js {
-    margin: .2rem;
-}
+ 
 .project-showcase {
   width: 90%;
 }
 .section ul {
   width: 80%;
   margin: auto;
+   font-size: .7rem;
 }
 .ptext{
   top: 38%;
-   letter-spacing: .2rem;
+   letter-spacing: .1rem;
+   font-size: .7rem;
 }
 }
 /*~~~~~~~~~~~~Contact Page styles~~~~~~~~~~*/
